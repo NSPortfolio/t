@@ -3,21 +3,19 @@ body {
 }
 
 .topnav a {
-  background-color: #808080;
+  background-color: #FFFFFF;
   overflow: hidden;
   float: right;
   color: black;
   padding: 20px 20px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 20px;
   font-family: georgia;
-  opacity: 0.75;
 }
 
 .topnav a:hover {
-  background-color: #808080;
-  opacity: .75;
-  color: #b3e0f2;
+  background-color: #C0C0C0;
+  color: black;
   font-family: georgia;
 }
 .container {
