@@ -2,14 +2,9 @@ body {
   margin: 0;
 }
 
-.topnav {
-  overflow: hidden;
-  background-color: #808080;
-  font-family: georgia;
-  opacity: 0.75;
-}
-
 .topnav a {
+  background-color: #808080;
+  overflow: hidden;
   float: right;
   color: black;
   padding: 20px 20px;
