@@ -4,8 +4,9 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #FFFFFF;
+  background-color: #808080;
   font-family: georgia;
+  opacity: 0.75;
 }
 
 .topnav a {
@@ -14,13 +15,14 @@ body {
   padding: 20px 20px;
   text-decoration: none;
   font-size: 16px;
-    font-family: georgia;
+  font-family: georgia;
+  opacity: 0.5;
 }
 
 .topnav a:hover {
-  background-color: #b3e0f2;
-  color: black;
-    font-family: georgia;
+  opacity: .75;
+  color: #b3e0f2;
+  font-family: georgia;
 }
 .container {
   position: relative;
