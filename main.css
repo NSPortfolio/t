@@ -15,6 +15,7 @@ body {
 }
 
 .topnav a:hover {
+  background-color: #808080;
   opacity: .75;
   color: #b3e0f2;
   font-family: georgia;
